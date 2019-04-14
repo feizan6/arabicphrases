@@ -25,9 +25,8 @@ public class MainActivity extends AppCompatActivity {
     public void onClickPlay(View view) {
 
         // ** A BETTER SOLUTION **
-        // In this we are simply setting the button id to c
+        // In this we are simply setting the button id to
         // correspond to the raw file id and linking the two.
-
 
 
         int id = view.getId();
